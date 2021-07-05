@@ -6,7 +6,7 @@
 
 
 
-<h1>- 📫 How to reach me: <a href="https://bit.ly/cea-lnkdn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a></h1>
+<h1>- 📫 How to reach me: <a href="https://linktr.ee/carloseandrade" target="_blank">Click here to find out</a></h1>
 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gitcarlosandrade&theme=vision-friendly-dark&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
