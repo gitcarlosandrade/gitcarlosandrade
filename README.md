@@ -5,7 +5,7 @@
 - :rocket: I’m currently working on projects using Flutter in a high-level team
 - 👯 I’m looking to collaborate on projects that have social impact
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitcarlosandrade&theme=radical)
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseandrade/)
